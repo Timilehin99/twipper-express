@@ -1,0 +1,15 @@
+{
+  "name": "twitter-clone",
+  "version": "1.0.0",
+  "description": "A clone for twipper",
+  "main": "server.js",
+  "scripts": {
+    "test": "nodemon server.js"
+  },
+  "author": "timi",
+  "license": "ISC",
+  "dependencies": {
+    "pg-hstore": "^2.3.4",
+    "sequelize": "^6.37.3"
+  }
+}
